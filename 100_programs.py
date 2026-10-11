@@ -1,12 +1,3 @@
-"""
-100 PROGRAMS - 100 Python Programs (1-85), code with output
-Source list: Harshal Chauhan, "100 Python programs compulsory before you start Data Science".
-Programs 1-84 are from the post; 85 (insertion sort) was hidden in the post, so it is written here.
-Programs 86-100 were not available.
-
-Run: python 100_programs.py
-"""
-
 
 # ============================================================
 # BASICS
